@@ -1,4 +1,2 @@
-package com.stef.controller;
-
-public class MainController {
+package com.stef.controller;public class MainController {
 }
